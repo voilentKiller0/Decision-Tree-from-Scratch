@@ -11,3 +11,6 @@ Example shown below image how the we make decision to joining alternate company 
 ![image](https://user-images.githubusercontent.com/55941465/125918741-d3769358-083e-402c-b746-10683521e86a.png)
 
 
+Here there are two files that contain ccodes and explanation are .ipynb file and .py file.
+
+And one file are .pdf for reading pupose .
